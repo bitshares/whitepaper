@@ -1,4 +1,4 @@
-# BitShares Whiteaper
+# BitShares Whitepaper
 
 ## Introduction
 BitShares Blockchain, as it exists today, was launched on 13th October 2015 with its community being established already in 2013. It implements an industrial-grade decentralized platform built for high-performance smart contracts with focus on the financial technologies sector.
