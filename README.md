@@ -94,7 +94,8 @@ On BitShares Blockchain, decisions are made by the holders of BTS core native to
 
 At any time, voters have to decide on the following aspects of BitShares Blockchain:
 
-Members for Block Production (Witnesses) Block production in BitShares is arranged through DPoS which requires block producers to run for witness and campaign for sufficient votes from BTS holders before they can produce blocks on the Blockchain and consequently get rewarded per produced block. Given the governance system and quick re-tallying of votes, a misbehaving block producer can be dismissed within hours. Next to the actual selection of block producers, the voters also have a say over how many block producers should exist.
+### Members for Block Production (Witnesses)
+Block production in BitShares is arranged through DPoS which requires block producers to run for witness and campaign for sufficient votes from BTS holders before they can produce blocks on the Blockchain and consequently get rewarded per produced block. Given the governance system and quick re-tallying of votes, a misbehaving block producer can be dismissed within hours. Next to the actual selection of block producers, the voters also have a say over how many block producers should exist.
 
 ### Committee
 The Committee comprises a board that has control over a few Blockchain parameters such as block size, block time, witness reward, and over 30 others. Additionally, the committee can change the fee schedule which defines the minimum fee for each operation offered by the system. Voters can cast a vote for how many members the committee should constitute as well as vote for a particular set of members.
