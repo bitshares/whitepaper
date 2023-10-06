@@ -84,7 +84,7 @@ Similar to most other Blockchains, interacting with BitShares Blockchains comes 
 
 As a consequence, the total amount of BTS in the working budget as well as the total in- and out-flow highly varies over time. However, if compared to most proof-of-work-based Blockchains that constantly reward a (more or less) fixed amount of tokens to miners, BitShares Blockchain has a chance to have the working budget grow and consequently the circulating supply shrink. This is the case if the total transactions fees outweigh the tokens used for block production and project funding.
 
-While, the BTS holders have choices to either increase or decrease the funds used for block production and project funding, the committee has the choice to adapt the transaction fees by means of updating the fee schedule. In contrast to other Blockchains, BitShares Blockchain comes with fixed fees instead of a fee market5. The schedule defines which feature of the Blockchain requires which amount of transaction fee for using it.
+While, the BTS holders have choices to either increase or decrease the funds used for block production and project funding, the committee has the choice to adapt the transaction fees by means of updating the fee schedule. In contrast to other Blockchains, BitShares Blockchain comes with fixed fees instead of a fee market. The schedule defines which feature of the Blockchain requires which amount of transaction fee for using it.
 
 ### Core Token
 The native utility core token of BitShares Blockchain is BTS, it serves as a utility token and is offering governance properties to its holders. Governance describes the progress of governing the Blockchains many variable aspects in a way it it can adapt to future changes more easily.
